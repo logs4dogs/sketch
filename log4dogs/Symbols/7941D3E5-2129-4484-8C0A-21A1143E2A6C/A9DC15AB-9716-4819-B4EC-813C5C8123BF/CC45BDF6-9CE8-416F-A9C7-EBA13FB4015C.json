@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "926FA52B-F43E-4D1C-AC4F-B258C50735F8",
+  "do_objectID": "CC45BDF6-9CE8-416F-A9C7-EBA13FB4015C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 650,
-    "width": 1159,
-    "x": 410,
-    "y": 176
+    "height": 40,
+    "width": 40,
+    "x": 1040,
+    "y": 244
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,17 +28,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "my-protocol-card-trail-list",
+  "name": "★ Button/Slim/Fab",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "40550DDF-6A9D-4296-95DB-E3312D90D495_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/2ce4c0a54cee6ed7906643823c4177fa61a9c24f.png",
-        "_ref_class": "MSImageData"
-      }
+      "overrideName": "00686A15-3F9F-49DB-B41B-EF34BCC84458_symbolID",
+      "value": "8099B40C-F35D-48FC-B9E4-2D167432C199"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "00686A15-3F9F-49DB-B41B-EF34BCC84458/42F84793-AA5C-488E-AC32-9B085E375CB5_symbolID",
+      "value": "F2801325-90BB-47FF-B3B5-AAD9B9B7B621"
     }
   ],
   "resizingConstraint": 63,
@@ -80,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "32F51160-0024-4365-BCA3-59A90CD0718B",
+    "do_objectID": "D85D57AB-BD6E-425F-A3C8-88AF972EE77C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DF4B8DF3-E71A-46B2-8D09-D7505A1E5A4C",
+  "symbolID": "B34299CD-9792-4C62-AAEF-DB0CC58B44ED",
   "verticalSpacing": 0
 }

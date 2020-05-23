@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "387F725F-2BF4-4C30-B966-F45427E04C92",
+  "do_objectID": "06F28082-9A5E-4A3A-9D5A-3500B99F3AAC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,19 +12,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "AC4CCD93-A435-4F91-94D8-A3ECD5304B5C",
-    "maintainScrollPosition": false
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 73,
-    "width": 1084,
-    "x": 10,
-    "y": 404
+    "height": 48,
+    "width": 48,
+    "x": 992,
+    "y": 132
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,9 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "trail-item",
+  "name": "★ Button/Default/Default Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5BB5DA9B-964D-43E6-B685-02F65F293C81_symbolID",
+      "value": "6E37D335-DF2D-48D2-8F45-3755AB741EB2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5BB5DA9B-964D-43E6-B685-02F65F293C81/4118B915-2AE5-42EF-9627-91AC152D0E97_symbolID",
+      "value": "253232E9-08DB-4512-9F8C-61CD74BB173E"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "44B03D2C-1850-4282-94FD-3AF5F753A78E",
+    "do_objectID": "EDC249E4-A70E-43C8-AD5C-6C921E2D3316",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8EA08F4E-D709-490E-B7E0-D93189DD1BCB",
+  "symbolID": "EA32C7AC-4781-4AC9-A07C-E7E17B75EE1A",
   "verticalSpacing": 0
 }

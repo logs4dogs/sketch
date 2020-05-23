@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "387F725F-2BF4-4C30-B966-F45427E04C92",
+  "do_objectID": "09ECFE8E-1873-4A1D-9E6D-B9E11DB7FF56",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,16 +15,16 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "AC4CCD93-A435-4F91-94D8-A3ECD5304B5C",
+    "destinationArtboardID": "A9DE3EED-363D-4542-BC81-3F7D7609C85B",
     "maintainScrollPosition": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 73,
-    "width": 1084,
-    "x": 10,
-    "y": 404
+    "height": 30,
+    "width": 50,
+    "x": 1026,
+    "y": 802
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,9 +34,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "trail-item",
+  "name": "Button Text/Slim/Outlined/Primary Copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EE92134F-1F4D-4CA0-B373-875E3433CAD0_stringValue",
+      "value": "Save"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,7 +82,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "44B03D2C-1850-4282-94FD-3AF5F753A78E",
+    "do_objectID": "10B4D923-2C2F-449D-8B39-CDBFDB8A085C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,6 +94,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8EA08F4E-D709-490E-B7E0-D93189DD1BCB",
+  "symbolID": "3547134B-F523-41A5-A8E0-FF8FDAC7CF83",
   "verticalSpacing": 0
 }

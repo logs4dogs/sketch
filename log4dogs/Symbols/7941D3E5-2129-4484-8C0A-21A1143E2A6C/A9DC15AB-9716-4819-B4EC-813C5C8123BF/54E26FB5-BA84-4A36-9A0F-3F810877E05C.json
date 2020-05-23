@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97654047-021D-4459-8D7C-DAF34EE0FD78",
+  "do_objectID": "54E26FB5-BA84-4A36-9A0F-3F810877E05C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,19 +12,13 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "00541E2D-AE80-4E79-A510-44A58C5337B1",
-    "maintainScrollPosition": false
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 164,
-    "x": 1405,
-    "y": 103
+    "height": 150,
+    "width": 522,
+    "x": 554,
+    "y": 483
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,23 +28,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Button Text/Default/Outlined/Primary",
+  "name": "Text Field/Default/Outlined/hasValue Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B7928F61-C50E-4EA9-8CC7-B2E265909C69_symbolID",
-      "value": "8099B40C-F35D-48FC-B9E4-2D167432C199"
+      "overrideName": "20D5367C-81BA-4731-9B41-05C35156855B_stringValue",
+      "value": "Reset description"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "B7928F61-C50E-4EA9-8CC7-B2E265909C69/42F84793-AA5C-488E-AC32-9B085E375CB5_symbolID",
-      "value": "F2801325-90BB-47FF-B3B5-AAD9B9B7B621"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "791D0474-A44B-4DA3-B1BD-933CB378A7F6_stringValue",
-      "value": "Add Protocol"
+      "overrideName": "387294FE-5EB0-4616-8903-68F36BAF5B4A_stringValue",
+      "value": "If the dog..."
     }
   ],
   "resizingConstraint": 63,
@@ -92,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "47966F04-8981-4AD2-B1F6-77A7C07EAE43",
+    "do_objectID": "5125F4B1-327B-48FB-BB52-609CAF5D363F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,6 +93,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D6AE68C5-455C-4031-B176-73E080C1D217",
+  "symbolID": "C6968471-5542-48F9-898D-4A9D2387128D",
   "verticalSpacing": 0
 }

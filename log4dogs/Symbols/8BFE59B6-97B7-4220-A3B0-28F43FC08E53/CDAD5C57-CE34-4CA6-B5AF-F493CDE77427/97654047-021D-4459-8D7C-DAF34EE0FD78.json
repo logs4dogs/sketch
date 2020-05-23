@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "387F725F-2BF4-4C30-B966-F45427E04C92",
+  "do_objectID": "97654047-021D-4459-8D7C-DAF34EE0FD78",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,16 +15,16 @@
   "flow": {
     "_class": "MSImmutableFlowConnection",
     "animationType": -1,
-    "destinationArtboardID": "AC4CCD93-A435-4F91-94D8-A3ECD5304B5C",
+    "destinationArtboardID": "00541E2D-AE80-4E79-A510-44A58C5337B1",
     "maintainScrollPosition": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 73,
-    "width": 1084,
-    "x": 10,
-    "y": 404
+    "height": 36,
+    "width": 164,
+    "x": 995,
+    "y": 3
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -34,9 +34,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "trail-item",
+  "name": "Button Text/Default/Outlined/Primary",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B7928F61-C50E-4EA9-8CC7-B2E265909C69_symbolID",
+      "value": "8099B40C-F35D-48FC-B9E4-2D167432C199"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B7928F61-C50E-4EA9-8CC7-B2E265909C69/42F84793-AA5C-488E-AC32-9B085E375CB5_symbolID",
+      "value": "F2801325-90BB-47FF-B3B5-AAD9B9B7B621"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "791D0474-A44B-4DA3-B1BD-933CB378A7F6_stringValue",
+      "value": "Add Protocol"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "44B03D2C-1850-4282-94FD-3AF5F753A78E",
+    "do_objectID": "47966F04-8981-4AD2-B1F6-77A7C07EAE43",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -89,6 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8EA08F4E-D709-490E-B7E0-D93189DD1BCB",
+  "symbolID": "D6AE68C5-455C-4031-B176-73E080C1D217",
   "verticalSpacing": 0
 }

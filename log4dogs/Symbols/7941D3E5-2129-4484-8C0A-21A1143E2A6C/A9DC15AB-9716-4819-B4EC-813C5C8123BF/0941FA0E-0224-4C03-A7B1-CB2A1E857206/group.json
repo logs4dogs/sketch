@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "387F725F-2BF4-4C30-B966-F45427E04C92",
+  "do_objectID": "0941FA0E-0224-4C03-A7B1-CB2A1E857206",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,36 +12,40 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "flow": {
-    "_class": "MSImmutableFlowConnection",
-    "animationType": -1,
-    "destinationArtboardID": "AC4CCD93-A435-4F91-94D8-A3ECD5304B5C",
-    "maintainScrollPosition": false
-  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 73,
-    "width": 1084,
-    "x": 10,
-    "y": 404
+    "height": 150,
+    "width": 150,
+    "x": 16,
+    "y": 16
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "trail-item",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A30A4075-E316-4CBF-811D-9C71B6020950"
+    },
+    {
+      "class": "bitmap",
+      "id": "9520AD2A-E1A1-479B-B7EE-D0A8A68F2469"
+    }
   ],
+  "name": "image-rouded-corner",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -77,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "44B03D2C-1850-4282-94FD-3AF5F753A78E",
+    "do_objectID": "0743C704-E612-4CA8-9F67-C4D40D309826",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -88,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "8EA08F4E-D709-490E-B7E0-D93189DD1BCB",
-  "verticalSpacing": 0
+  }
 }
