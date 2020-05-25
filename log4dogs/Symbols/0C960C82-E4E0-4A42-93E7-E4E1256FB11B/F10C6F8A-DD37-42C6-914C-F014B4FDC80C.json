@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "06F28082-9A5E-4A3A-9D5A-3500B99F3AAC",
+  "do_objectID": "F10C6F8A-DD37-42C6-914C-F014B4FDC80C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 48,
-    "x": 992,
-    "y": 132
+    "height": 240,
+    "width": 1100,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,20 +27,10 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "★ Button/Default/Default Copy",
+  "layerListExpandedType": 2,
+  "name": "Cards/Body",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "5BB5DA9B-964D-43E6-B685-02F65F293C81_symbolID",
-      "value": "6E37D335-DF2D-48D2-8F45-3755AB741EB2"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5BB5DA9B-964D-43E6-B685-02F65F293C81/4118B915-2AE5-42EF-9627-91AC152D0E97_symbolID",
-      "value": "253232E9-08DB-4512-9F8C-61CD74BB173E"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EDC249E4-A70E-43C8-AD5C-6C921E2D3316",
+    "do_objectID": "BBC3A988-8D41-4D4E-B005-22CA9A92DC04",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EA32C7AC-4781-4AC9-A07C-E7E17B75EE1A",
+  "symbolID": "14953D25-FFF0-4EFD-BB16-81125D40D4F3",
   "verticalSpacing": 0
 }

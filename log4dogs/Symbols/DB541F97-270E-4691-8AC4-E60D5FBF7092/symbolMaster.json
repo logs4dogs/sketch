@@ -1,8 +1,17 @@
 {
-  "_class": "group",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "0941FA0E-0224-4C03-A7B1-CB2A1E857206",
+  "do_objectID": "DB541F97-270E-4691-8AC4-E60D5FBF7092",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +24,50 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 150,
-    "width": 150,
-    "x": 16,
-    "y": 16
+    "height": 164,
+    "width": 1084,
+    "x": 5311,
+    "y": 173
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A30A4075-E316-4CBF-811D-9C71B6020950"
-    },
-    {
-      "class": "bitmap",
-      "id": "9520AD2A-E1A1-479B-B7EE-D0A8A68F2469"
+      "class": "group",
+      "id": "86EA677A-C6F3-4D00-9CD6-D5D8391E22AB"
     }
   ],
-  "name": "image-rouded-corner",
-  "nameIsFixed": true,
+  "name": "my-protocol-card-header",
+  "nameIsFixed": false,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -81,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0743C704-E612-4CA8-9F67-C4D40D309826",
+    "do_objectID": "FB32F969-3241-4D5F-8823-072C1DF513CB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +113,12 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "symbolID": "D5DC553F-464E-4FA6-90F4-7270295AE0CA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }

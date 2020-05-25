@@ -40,7 +40,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7C48BDF0-D847-4B25-800C-EF359FBEA196",
+  "do_objectID": "2B3AEB8C-D4FB-411A-B329-D14200F2EA9A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,10 +54,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 254,
-    "x": 298,
-    "y": 32
+    "height": 32,
+    "width": 30,
+    "x": 194,
+    "y": 0
   },
   "glyphBounds": "{{1, 6}, {28, 20}}",
   "hasClippingMask": false,
@@ -70,7 +70,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Sit",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "624D2B2F-FCEA-4BB9-AAD8-C4FEA2A169B2",
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "62166DC1-77FD-4855-BBB2-748833201A44",
+    "do_objectID": "9447BBC0-8574-44BD-9E94-D0C3D4F0EA57",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -151,5 +151,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

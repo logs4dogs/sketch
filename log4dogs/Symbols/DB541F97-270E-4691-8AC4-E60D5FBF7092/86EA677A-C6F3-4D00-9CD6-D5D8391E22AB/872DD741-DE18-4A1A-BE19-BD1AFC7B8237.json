@@ -17,30 +17,30 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 24
+              "size": 14
             }
           },
-          "kerning": 0,
+          "kerning": 0.1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "lineHeightMultiple": 1,
-            "maximumLineHeight": 31.92,
-            "minimumLineHeight": 31.92
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 3,
+        "length": 60,
         "location": 0
       }
     ],
-    "string": "Sit"
+    "string": "Created: 08/01/2020, 12:17:42\nModified: 22/05/2020, 21:37:13"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0079143A-C21D-42D9-B99D-1EE5499DCFEB",
+  "do_objectID": "872DD741-DE18-4A1A-BE19-BD1AFC7B8237",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 254,
-    "x": 298,
-    "y": 32
+    "height": 40,
+    "width": 201,
+    "x": 194,
+    "y": 111
   },
-  "glyphBounds": "{{1, 6}, {28, 20}}",
+  "glyphBounds": "{{0, 4}, {200, 33}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,12 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sit",
+  "name": "Created: 08/01/2020,",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "624D2B2F-FCEA-4BB9-AAD8-C4FEA2A169B2",
+  "sharedStyleID": "779B552A-6BD7-4574-A3AC-638E498D6682",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "326C7BE0-92CD-4B0E-AFA1-209CF56AB420",
+    "do_objectID": "6B37A49B-9FC3-4C55-9FD2-51F75F0379DD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -133,16 +133,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 24
+            "size": 14
           }
         },
-        "kerning": 0,
+        "kerning": 0.1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "lineHeightMultiple": 1,
-          "maximumLineHeight": 31.92,
-          "minimumLineHeight": 31.92
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0
@@ -151,5 +151,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

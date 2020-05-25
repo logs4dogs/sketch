@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B1EA6014-FBE5-4D57-AC1A-7887345EDAFC",
+  "do_objectID": "A29633D6-5DCE-4B62-9871-D52C57562754",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 1084,
-    "x": 8,
-    "y": 282
+    "height": 250,
+    "width": 250,
+    "x": 657,
+    "y": 160
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -27,8 +27,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "_ignore/Divider",
+  "layerListExpandedType": 2,
+  "name": "image-rounded-corners",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "31472E03-80D3-45B0-9816-57079CECD5AB",
+    "do_objectID": "05776CB5-D62C-43E1-8A63-F9D27769A945",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DEFC8ED5-D4D1-49F5-85BE-047A5BC575FE",
+  "symbolID": "B2035179-52B4-44A5-990D-7C1E9D53325E",
   "verticalSpacing": 0
 }

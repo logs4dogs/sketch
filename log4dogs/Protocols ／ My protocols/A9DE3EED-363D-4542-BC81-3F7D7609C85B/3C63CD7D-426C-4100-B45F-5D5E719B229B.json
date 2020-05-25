@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F10C6F8A-DD37-42C6-914C-F014B4FDC80C",
+  "do_objectID": "3C63CD7D-426C-4100-B45F-5D5E719B229B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 345,
-    "width": 1100,
-    "x": 0,
-    "y": 0
+    "height": 240,
+    "width": 1159,
+    "x": 410,
+    "y": 977
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Cards/Body",
+  "name": "my-protocol-card",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -71,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BBC3A988-8D41-4D4E-B005-22CA9A92DC04",
+    "do_objectID": "A090D443-8567-4D18-97B2-0DC0614F97C5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "14953D25-FFF0-4EFD-BB16-81125D40D4F3",
+  "symbolID": "CE22A069-8677-4547-87DE-B2CE5BB8A8CD",
   "verticalSpacing": 0
 }

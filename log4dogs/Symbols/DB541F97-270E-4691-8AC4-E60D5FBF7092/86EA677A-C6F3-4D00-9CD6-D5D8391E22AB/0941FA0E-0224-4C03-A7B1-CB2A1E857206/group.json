@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DA2FE53F-343B-46A1-AA0D-FDE6B65785C1",
+  "do_objectID": "0941FA0E-0224-4C03-A7B1-CB2A1E857206",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 1084,
+    "height": 150,
+    "width": 150,
     "x": 8,
-    "y": 282
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "_ignore/Divider",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A30A4075-E316-4CBF-811D-9C71B6020950"
+    },
+    {
+      "class": "bitmap",
+      "id": "9520AD2A-E1A1-479B-B7EE-D0A8A68F2469"
+    }
   ],
+  "name": "image-rouded-corner",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -71,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E1CA72A2-84A6-40AC-8AC1-E817798F5A14",
+    "do_objectID": "0743C704-E612-4CA8-9F67-C4D40D309826",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,7 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "DEFC8ED5-D4D1-49F5-85BE-047A5BC575FE",
-  "verticalSpacing": 0
+  }
 }

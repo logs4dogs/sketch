@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "712AF693-543E-4970-88AA-6A3CF8B1A7B3",
+  "do_objectID": "7B801E7E-3770-4A74-9965-CBBD2CE99E96",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 250,
-    "width": 250,
-    "x": 16,
-    "y": 16
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -544,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "51738824-CCA4-4FB1-9E0A-C82FA6B93F7D"
-    },
-    {
-      "class": "bitmap",
-      "id": "01860B65-1217-470D-9236-F5EC85C7B44C"
+      "class": "artboard",
+      "id": "780C1ABB-D8D4-4ED5-9DC0-754D5545325B"
     }
   ],
-  "name": "image-rouded-corner",
+  "name": "Sandbox",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +84,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BA8C2FC2-BB6C-4E31-B98E-4FA840342C2E",
+    "do_objectID": "7128B4F3-EFB1-42A8-923A-1E5EE1910D3B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +95,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -477,
+    "guides": [
+    ]
   }
 }

@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8DCB8396-CE05-4C85-B9D0-18450E705E98",
+  "do_objectID": "05FDDF8F-B675-4407-B573-89644168171D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,68 +12,61 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "A9DE3EED-363D-4542-BC81-3F7D7609C85B",
+    "maintainScrollPosition": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 345,
-    "width": 1100,
-    "x": 0,
-    "y": 0
+    "height": 36,
+    "width": 129,
+    "x": 963,
+    "y": 192
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Button Text + ★/Default/Outlined/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "F10C6F8A-DD37-42C6-914C-F014B4FDC80C"
+      "_class": "overrideValue",
+      "overrideName": "FFAA7DF6-E13D-46CF-908F-9A28C89E6A8F_stringValue",
+      "value": "Trails (7)"
     },
     {
-      "class": "symbolInstance",
-      "id": "E57A735B-C28B-46D8-BDA8-EC21462E1341"
+      "_class": "overrideValue",
+      "overrideName": "BFF03FE4-CDAC-4900-B635-84B686974F45_symbolID",
+      "value": "A5E7F88D-A6C0-4F12-BEE2-769E4F64829C"
     },
     {
-      "class": "symbolInstance",
-      "id": "0F74753A-96B0-4F0C-A5D5-92CEED1DE38B"
+      "_class": "overrideValue",
+      "overrideName": "BFF03FE4-CDAC-4900-B635-84B686974F45/A5E10C7D-8ED1-476A-BC54-2650CCAF0028_symbolID",
+      "value": "FBE3F191-6FA6-40E9-8B6C-DCEEC371AB18"
     },
     {
-      "class": "text",
-      "id": "7801786E-6306-4CF6-9CED-29BEED9DA8C2"
+      "_class": "overrideValue",
+      "overrideName": "FFAA7DF6-E13D-46CF-908F-9A28C89E6A8F_textStyle",
+      "value": "CAB31FFE-D652-4428-B8FC-D2221C74D867"
     },
     {
-      "class": "text",
-      "id": "09DB00FF-DAF5-42C3-892A-62A8B579C5DF"
-    },
-    {
-      "class": "group",
-      "id": "712AF693-543E-4970-88AA-6A3CF8B1A7B3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "05FDDF8F-B675-4407-B573-89644168171D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B1EA6014-FBE5-4D57-AC1A-7887345EDAFC"
-    },
-    {
-      "class": "text",
-      "id": "7C48BDF0-D847-4B25-800C-EF359FBEA196"
+      "_class": "overrideValue",
+      "overrideName": "0A303385-E27B-4E4C-B310-218CC9A5C4D9_layerStyle",
+      "value": "FBE9469D-5C7A-4D16-9C35-F9645743E47D"
     }
   ],
-  "name": "my-protocol-card",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -109,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "51C7F46B-6C08-41CB-B5AC-175031276776",
+    "do_objectID": "9761E7B8-9F31-4A0D-AE90-83B1FB687E97",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,5 +113,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D844BEF7-74A8-4421-B5B2-50E53E028F8D",
+  "verticalSpacing": 0
 }

@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "01860B65-1217-470D-9236-F5EC85C7B44C",
+  "do_objectID": "B126434A-544E-42C7-AF5D-A394592318C0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +12,30 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 250,
-    "width": 250,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 164,
+    "width": 1084,
+    "x": 8,
+    "y": 16
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/07467e7b1bb0d7983bf7fd2908a8187516ec5440.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 72,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "dog1",
+  "name": "my-protocol-card-header",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EB1621F7-0E57-47EA-AF11-90B64A66BD72",
+    "do_objectID": "52B538B2-4966-4669-B758-CCF8C56FE9E8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,5 +82,7 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D5DC553F-464E-4FA6-90F4-7270295AE0CA",
+  "verticalSpacing": 0
 }

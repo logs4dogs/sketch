@@ -8,7 +8,7 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.54,
+            "alpha": 0.87,
             "blue": 0,
             "green": 0,
             "red": 0
@@ -17,30 +17,30 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Regular",
-              "size": 14
+              "size": 16
             }
           },
-          "kerning": 0.1,
+          "kerning": 0.09,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "lineHeightMultiple": 1,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
+            "maximumLineHeight": 28,
+            "minimumLineHeight": 28
           },
           "strikethroughStyle": 0,
           "underlineStyle": 0
         },
-        "length": 60,
+        "length": 44,
         "location": 0
       }
     ],
-    "string": "Created: 08/01/2020, 12:17:42\nModified: 22/05/2020, 21:37:13"
+    "string": "Sit for 10 minutes with handler out of site."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "09DB00FF-DAF5-42C3-892A-62A8B579C5DF",
+  "do_objectID": "8126C923-F3D5-416D-8666-5B7239AF36F1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 429,
-    "x": 296,
-    "y": 230
+    "height": 28,
+    "width": 306,
+    "x": 194,
+    "y": 50
   },
-  "glyphBounds": "{{0, 4}, {200, 33}}",
+  "glyphBounds": "{{0, 7}, {305, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,12 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Created: 08/01/2020,",
+  "name": "Sit for 10 minutes w",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "779B552A-6BD7-4574-A3AC-638E498D6682",
+  "sharedStyleID": "57260CE5-28A9-4134-9C3E-A593A274717F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AD0AB44B-9308-41B9-A5B2-D99D60800ABA",
+    "do_objectID": "0FEA6A0C-F148-4D26-A887-B67A3ED8D75C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,7 +124,7 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.54,
+          "alpha": 0.87,
           "blue": 0,
           "green": 0,
           "red": 0
@@ -133,16 +133,16 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Regular",
-            "size": 14
+            "size": 16
           }
         },
-        "kerning": 0.1,
+        "kerning": 0.09,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "lineHeightMultiple": 1,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
+          "maximumLineHeight": 28,
+          "minimumLineHeight": 28
         },
         "strikethroughStyle": 0,
         "underlineStyle": 0
@@ -151,5 +151,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

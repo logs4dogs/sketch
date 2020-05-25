@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "899C8730-7943-45F2-9FBC-A68A912B86E6",
+  "do_objectID": "B6BB0BA9-56D2-4154-A416-30C077B1E4B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 48,
-    "x": 1040,
-    "y": 131
+    "height": 164,
+    "width": 1084,
+    "x": 8,
+    "y": 16
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,19 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "★ Button/Default/Default",
+  "name": "my-protocol-card-header",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "5BB5DA9B-964D-43E6-B685-02F65F293C81_symbolID",
-      "value": "4DD43E8C-2C90-46D6-90C6-AA1C842FEF57"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5BB5DA9B-964D-43E6-B685-02F65F293C81/97792558-C12B-4C2F-B612-7D551356671B_symbolID",
-      "value": "253232E9-08DB-4512-9F8C-61CD74BB173E"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "56B25816-0A6B-4247-8230-F7F0E1C896C2",
+    "do_objectID": "52EBEC75-6930-42D0-8A7E-DC8BAFE403C2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "EA32C7AC-4781-4AC9-A07C-E7E17B75EE1A",
+  "symbolID": "D5DC553F-464E-4FA6-90F4-7270295AE0CA",
   "verticalSpacing": 0
 }
