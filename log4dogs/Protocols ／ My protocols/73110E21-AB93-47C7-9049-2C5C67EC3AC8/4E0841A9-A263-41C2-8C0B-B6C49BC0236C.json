@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "236C76CA-731B-4429-8B9C-BB399B1B592C",
+  "do_objectID": "4E0841A9-A263-41C2-8C0B-B6C49BC0236C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,57 +14,28 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 648,
+    "width": 750,
+    "x": 564,
+    "y": 216
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "70F33676-7C60-4A33-B40B-EDAE87E2B350"
-    },
-    {
-      "class": "artboard",
-      "id": "A9DE3EED-363D-4542-BC81-3F7D7609C85B"
-    },
-    {
-      "class": "artboard",
-      "id": "00541E2D-AE80-4E79-A510-44A58C5337B1"
-    },
-    {
-      "class": "artboard",
-      "id": "73110E21-AB93-47C7-9049-2C5C67EC3AC8"
-    },
-    {
-      "class": "artboard",
-      "id": "AC4CCD93-A435-4F91-94D8-A3ECD5304B5C"
-    }
+  "name": "Dialog/Body",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "Protocols / My protocols",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -100,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C680FED5-9017-4EBC-B659-8CA5B5522079",
+    "do_objectID": "732BFCA8-D89E-4BF3-9A40-E7D1891EBEDC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "B470B498-9F4D-430F-B8A9-993185A38B52",
+  "verticalSpacing": 0
 }

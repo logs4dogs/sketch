@@ -56,10 +56,10 @@
     "constrainProportions": false,
     "height": 20,
     "width": 38,
-    "x": 298,
-    "y": 750
+    "x": 278,
+    "y": 27
   },
-  "glyphBounds": "{{1, 5}, {37, 11}}",
+  "glyphBounds": "{{0, 5}, {37, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "lineSpacingBehaviour": 2,
   "name": "meter",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "5135E896-B1AF-4824-86C6-1F0B3F68F6B1",
@@ -151,5 +151,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
