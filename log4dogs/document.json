@@ -64939,12 +64939,12 @@
     "version": 130
   },
   "pages": [
-    "Protocols / My protocols",
-    "Sandbox",
-    "Trails / Logs",
     "Dashboard",
+    "Protocols / My protocols",
+    "Trails / Logs",
     "My Dogs",
-    "Symbols"
+    "Symbols",
+    "Sandbox"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
