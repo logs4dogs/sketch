@@ -1,6 +1,5 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -9,9 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 667,
   "clippingMaskMode": 0,
-  "do_objectID": "BA7000BA-6B6E-4B7F-B1BF-A2953205A6C3",
+  "do_objectID": "A349098F-399F-4196-AB1B-1147D62DABA5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,15 +22,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 532,
-    "width": 1100,
-    "x": 2471,
-    "y": 635
+    "height": 1080,
+    "width": 1920,
+    "x": 7952,
+    "y": -97
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -42,7 +46,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -54,58 +57,64 @@
   "layers": [
     {
       "class": "group",
-      "id": "4C515B13-22F7-4E24-AD32-2E78BAD09F37"
+      "id": "5302295B-23A1-4D2B-985C-77387ABA293A"
     },
     {
       "class": "symbolInstance",
-      "id": "B6BB0BA9-56D2-4154-A416-30C077B1E4B8"
+      "id": "5D036F88-5E61-47CB-AE75-E92A3C1F8A22"
+    },
+    {
+      "class": "group",
+      "id": "AF9152BB-AA2A-4913-804A-A34E051CC215"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C1DD192-ADAA-4CBC-AA27-DB50064B25EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B45E9EC7-3EAB-4C91-BFCC-F4452D448E32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8CF6375-799B-465E-9C25-3DAD5D645AF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F09EF01F-D929-441B-9669-3C735199E568"
+    },
+    {
+      "class": "rectangle",
+      "id": "C912ADF2-AEC0-497E-BD89-1C6F51C629E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52EB8693-85C6-4556-A012-725281FE6F2D"
     }
   ],
-  "name": "my-protocol-card-trail-list",
-  "nameIsFixed": false,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B6BB0BA9-56D2-4154-A416-30C077B1E4B8_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A7BE278C-E86D-45AC-A317-BA780D0BD1C5_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FD756A7C-0687-4BC7-AAA6-A96073B8F6E9_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "98019320-8DCD-4E78-95F9-75CA4C8D5EE5_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C4C08DA6-F9A8-41E8-BC7B-9108CC361BA8_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "387F725F-2BF4-4C30-B966-F45427E04C92_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "63648362-6670-4D70-9511-B65682DBD46B_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "E3C48463-DF49-40AB-894B-0D24721C9742_symbolID"
-    }
-  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 40,
+    "guttersOutside": true,
+    "horizontalOffset": 390,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1200
+  },
+  "name": "My protocols / Delete",
+  "nameIsFixed": true,
   "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -146,7 +155,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5AA7DBF7-DEE4-4EC4-BCC8-AB668537C678",
+    "do_objectID": "D82B127B-7FAC-4C09-B3C7-A35916786F86",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -158,7 +167,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DF4B8DF3-E71A-46B2-8D09-D7505A1E5A4C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

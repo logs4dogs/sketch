@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A7BE278C-E86D-45AC-A317-BA780D0BD1C5",
+  "do_objectID": "BB5DDE9D-948D-4016-A936-72B84EB2B29B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 1084,
-    "x": 10,
-    "y": 403
+    "height": 64,
+    "width": 600,
+    "x": 0,
+    "y": 0.5
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "_ignore/Divider Copy",
+  "name": "Dialog/Title",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE3596D8-462A-40F8-9EEE-90D19BB4B425_stringValue",
+      "value": "Delete protocol?"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +76,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E1B9BA35-C290-4011-8112-B2B5FB6D13B0",
+    "do_objectID": "FFD09EBE-DF32-4B1E-AC89-57663B68CD74",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -83,6 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "DEFC8ED5-D4D1-49F5-85BE-047A5BC575FE",
+  "symbolID": "1ED45ECC-7D15-4E73-B7E4-B512EF6E6346",
   "verticalSpacing": 0
 }

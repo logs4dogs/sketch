@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "236C76CA-731B-4429-8B9C-BB399B1B592C",
+  "do_objectID": "F09EF01F-D929-441B-9669-3C735199E568",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,63 +12,51 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "00541E2D-AE80-4E79-A510-44A58C5337B1",
+    "maintainScrollPosition": false
+  },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 36,
+    "width": 164,
+    "x": 1405,
+    "y": 103
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Button Text/Default/Outlined/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "73110E21-AB93-47C7-9049-2C5C67EC3AC8"
+      "_class": "overrideValue",
+      "overrideName": "B7928F61-C50E-4EA9-8CC7-B2E265909C69_symbolID",
+      "value": "8099B40C-F35D-48FC-B9E4-2D167432C199"
     },
     {
-      "class": "artboard",
-      "id": "AC4CCD93-A435-4F91-94D8-A3ECD5304B5C"
+      "_class": "overrideValue",
+      "overrideName": "B7928F61-C50E-4EA9-8CC7-B2E265909C69/42F84793-AA5C-488E-AC32-9B085E375CB5_symbolID",
+      "value": "F2801325-90BB-47FF-B3B5-AAD9B9B7B621"
     },
     {
-      "class": "artboard",
-      "id": "A9DE3EED-363D-4542-BC81-3F7D7609C85B"
-    },
-    {
-      "class": "artboard",
-      "id": "00541E2D-AE80-4E79-A510-44A58C5337B1"
-    },
-    {
-      "class": "artboard",
-      "id": "70F33676-7C60-4A33-B40B-EDAE87E2B350"
-    },
-    {
-      "class": "artboard",
-      "id": "A349098F-399F-4196-AB1B-1147D62DABA5"
+      "_class": "overrideValue",
+      "overrideName": "791D0474-A44B-4DA3-B1BD-933CB378A7F6_stringValue",
+      "value": "Add Protocol"
     }
   ],
-  "name": "Protocols / My protocols",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -104,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C680FED5-9017-4EBC-B659-8CA5B5522079",
+    "do_objectID": "033D55E2-5D0A-41A5-AA77-7D228A0F2D66",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,10 +104,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "D6AE68C5-455C-4031-B176-73E080C1D217",
+  "verticalSpacing": 0
 }
