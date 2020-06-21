@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "28B5E212-8925-4DE7-A900-E189D0B18707",
+  "do_objectID": "424F7B22-1BAF-4194-AEDF-C9622231ACCE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,40 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 64,
+    "width": 1921,
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -544,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "0DCD1CEC-5903-459B-A3D9-47B048295C2F"
-    }
+  "name": "top bar",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "My Dogs",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -84,7 +71,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CBE81D39-9FCC-4D03-BB70-087B4EB42D99",
+    "do_objectID": "B829EEB6-500D-4980-8BAA-1BD6DF745060",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,10 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -477,
-    "guides": [
-    ]
-  }
+  "symbolID": "A47F6BB3-720C-4E7E-8ACF-5F31764C247F",
+  "verticalSpacing": 0
 }
