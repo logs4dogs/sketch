@@ -1,8 +1,15 @@
 {
-  "_class": "page",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "28B5E212-8925-4DE7-A900-E189D0B18707",
+  "do_objectID": "0DCD1CEC-5903-459B-A3D9-47B048295C2F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +22,55 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 1080,
+    "width": 1920,
+    "x": -19,
+    "y": -10
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -544,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0DCD1CEC-5903-459B-A3D9-47B048295C2F"
+      "class": "symbolInstance",
+      "id": "424F7B22-1BAF-4194-AEDF-C9622231ACCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFAF0A54-0FB7-439D-BAC9-0DD2D85B3841"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F70B1690-C88D-4EC3-9B9D-0842EBA5487B"
     }
   ],
-  "name": "My Dogs",
+  "name": "My dogs / list",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -84,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CBE81D39-9FCC-4D03-BB70-087B4EB42D99",
+    "do_objectID": "650E8D18-5FD5-44C7-9580-F61CC375427F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -98,7 +119,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -477,
+    "base": 0,
     "guides": [
     ]
   }
